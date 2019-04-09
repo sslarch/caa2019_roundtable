@@ -5,8 +5,7 @@
  \___ \  | || | |_ |  \___ \\___ \| |     / /\ \    |__()____()   ()______()   ()______()   ()____()__|
  ____) |_| || |__| |  ____) |___) | |___ / ____ \   |__||____||   ||______||   ||______||   ||____||__|
 |_____/|_____\_____| |_____/_____/|_____/_/    \_\  W   W    W     W      W     W      W     W    W   W
-                                                    
-                                                    
+
 ```
 
 # Roundtable Scientific Scripting Languages in Archaeology - Limits and Opportunities of Open Research
@@ -37,7 +36,6 @@ This repository contains all relevant information for the CAA2019 Session **Roun
 
 1. Statements of the discussants (each ~2min) and brief discussion of the topic at hand (6min). The discussants will speak in the following order:
 
-***
 **Hinz**  
 *Introduction*  
 ***
@@ -52,6 +50,5 @@ This repository contains all relevant information for the CAA2019 Session **Roun
 ***
 **Schmid**  
 *Software maintenance*  
-***
 
 2. General discussion about the aims and organisational structure of the SIG. An important basis for discussion will be the current version of the Statement of purpose [here](https://martinhinz.github.io/sig_sci_scripting_languages/statement.html). 
