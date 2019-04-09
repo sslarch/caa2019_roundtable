@@ -29,7 +29,29 @@ This repository contains all relevant information for the CAA2019 Session **Roun
 
 ## Programme
 
+- The roundtable will be divided into two sections of ~45min each, with a short break of 5min in between (optional). 
+- We will collect important results and talking points live in a digital document if the technical equipment in the provided room permits that. 
+- Contributions of the audience will be taken into account in case of sufficient time.
 
+### Sections
 
+1. Statements of the discussants (each ~2min) and brief discussion of the topic at hand (6min). The discussants will speak in the following order:
 
+***
+**Hinz**  
+*Introduction*  
+***
+**Scholtus**  
+*Scripting languages community*  
+***
+**Roe**  
+*"scientific programming" and "software development"*  
+***
+**Romanowska**  
+*Research Software Engineers*  
+***
+**Schmid**  
+*Software maintenance*  
+***
 
+2. General discussion about the aims and organisational structure of the SIG. An important basis for discussion will be the current version of the Statement of purpose [here](https://martinhinz.github.io/sig_sci_scripting_languages/statement.html). 
