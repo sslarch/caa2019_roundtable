@@ -51,4 +51,4 @@ This repository contains all relevant information for the CAA2019 Session **Roun
 **Schmid**  
 *Software maintenance*  
 
-2. General discussion about the aims and organisational structure of the SIG. An important basis for discussion will be the current version of the Statement of purpose [here](https://martinhinz.github.io/sig_sci_scripting_languages/statement.html). 
+2. General discussion about the aims and organisational structure of the SIG. An important basis for discussion will be the current version of the Statement of purpose [here](https://sslarch.github.io/sig_sci_scripting_languages/statement.html). 
