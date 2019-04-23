@@ -22,7 +22,7 @@ This repository contains all relevant information for the CAA2019 Session **Roun
 [Martin Hinz](https://twitter.com/martinusrihhi) (University of Bern)  
 [Joe Roe](https://twitter.com/joeroe90) (University of Copenhagen)  
 [Iza Romanowska](https://twitter.com/iza_romanowska) (Barcelona Supercomputing Center)  
-[Sophie Schmidt](https://twitter.com/idhrenil) (University of Cologne)  
+[Sophie Schmidt](https://twitter.com/idhrenil) (University of Bonn)  
 [Clemens Schmid](https://twitter.com/nevromecs) (Römisch-Germanisches Zentralmuseum Mainz)  
 [Lizzie Scholtus](https://twitter.com/scholtuslizzie) (University of Strasbourg) 
 
