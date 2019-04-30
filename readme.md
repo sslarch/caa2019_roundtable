@@ -19,27 +19,15 @@ This repository contains all relevant information for the CAA2019 Session **Roun
 
 ## Discussants
 
-[Martin Hinz](https://twitter.com/martinusrihhi) (University of Bern)  
-[Joe Roe](https://twitter.com/joeroe90) (University of Copenhagen)  
-[Iza Romanowska](https://twitter.com/iza_romanowska) (Barcelona Supercomputing Center)  
-[Sophie Schmidt](https://twitter.com/idhrenil) (University of Bonn)  
-[Clemens Schmid](https://twitter.com/nevromecs) (Römisch-Germanisches Zentralmuseum Mainz)  
-[Lizzie Scholtus](https://twitter.com/scholtuslizzie) (University of Strasbourg) 
+- [Martin Hinz](https://twitter.com/martinusrihhi) (University of Bern): *Introduction*
+- [Lizzie Scholtus](https://twitter.com/scholtuslizzie) (University of Strasbourg): *Scripting languages community*
+- [Joe Roe](https://twitter.com/joeroe90) (University of Copenhagen): *"scientific programming" and "software development"*
+- [Iza Romanowska](https://twitter.com/iza_romanowska) (Barcelona Supercomputing Center): *Research Software Engineers*
+- [Clemens Schmid](https://twitter.com/nevromecs) (Römisch-Germanisches Zentralmuseum Mainz): *Software maintenance*  
+- [Sophie Schmidt](https://twitter.com/idhrenil) (University of Bonn)
 
 ## Programme
 
-- The roundtable will be divided into two sections of ~45min each, with a short break of 5min in between (optional). 
-- We will collect important results and talking points live in a digital document if the technical equipment in the provided room permits that. 
-- Contributions of the audience will be taken into account in case of sufficient time.
-
-### Sections
-
-1. Statements of the discussants (each ~2min) and brief discussion of the topic at hand (6min). The discussants will speak in the following order:
-
-- **Hinz**: *Introduction*  
-- **Scholtus**: *Scripting languages community*  
-- **Roe**: *"scientific programming" and "software development"*  
-- **Romanowska**: *Research Software Engineers*  
-- **Schmid**: *Software maintenance*  
-
-2. General discussion about the aims and organisational structure of the SIG. An important basis for discussion will be the current version of the Statement of purpose [here](https://sslarch.github.io/statement.html). 
+- The roundtable was divided into two sections: Statements of the discussants (each ~3min) + General discussion about the aims and organisational structure of the SIG.
+- We collected important results and talking points live in a digital document. They were published and discussed in the [Google mailing list forum](https://groups.google.com/forum/#!forum/scientific-scripting-languages-in-archaeology).
+- The audience participated in the discussion and added very important talking points.
