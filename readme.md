@@ -36,19 +36,10 @@ This repository contains all relevant information for the CAA2019 Session **Roun
 
 1. Statements of the discussants (each ~2min) and brief discussion of the topic at hand (6min). The discussants will speak in the following order:
 
-**Hinz**  
-*Introduction*  
-***
-**Scholtus**  
-*Scripting languages community*  
-***
-**Roe**  
-*"scientific programming" and "software development"*  
-***
-**Romanowska**  
-*Research Software Engineers*  
-***
-**Schmid**  
-*Software maintenance*  
+- **Hinz**: *Introduction*  
+- **Scholtus**: *Scripting languages community*  
+- **Roe**: *"scientific programming" and "software development"*  
+- **Romanowska**: *Research Software Engineers*  
+- **Schmid**: *Software maintenance*  
 
 2. General discussion about the aims and organisational structure of the SIG. An important basis for discussion will be the current version of the Statement of purpose [here](https://sslarch.github.io/statement.html). 
